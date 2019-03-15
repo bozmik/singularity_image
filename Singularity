@@ -4,7 +4,7 @@ From: nfcore/base
 
 %environment
 
-    PATH=/opt/conda/envs/singularity_image/bin:$PATH
+    PATH=/opt/conda/envs/Dual_RNAseq/bin:$PATH
     export PATH
 
 
