@@ -1,4 +1,4 @@
-name: singularity_image
+name: bozmik-singularity_image
 channels:
   - bioconda
   - conda-forge
