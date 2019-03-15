@@ -1,4 +1,4 @@
-name: Dual_RNAseq
+name: singularity_image
 channels:
   - bioconda
   - conda-forge
